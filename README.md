@@ -4,7 +4,7 @@
 
 [Docker](https://www.docker.com/) helps to **simplify** and **accelerate** the development workflow, while giving the freedom to choose any **tool** and maintain different development **environments** for each project.
 
-#### Check out my article on **Codemagic Blog** for detailed guide, [here](https://blog.codemagic.io/how-to-dockerize-flutter-apps/).
+#### Check out this article on **Codemagic Blog** for detailed guide, [here](https://blog.codemagic.io/how-to-dockerize-flutter-apps/).
 
 ## Prerequisites
 
